@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.588.0",
-    "@wppconnect-team/wppconnect": "^1.30.3",
+    "@wppconnect-team/wppconnect": "github:ralexei/wppconnect",
     "archiver": "^7.0.1",
     "axios": "^1.7.2",
     "bcrypt": "^5.1.1",
